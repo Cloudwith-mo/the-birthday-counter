@@ -11,7 +11,7 @@ Features
 
 Live Demo
 
-Click here to view the project!
+[Click here to view the project!](https://cloudwith-mo.github.io/the-birthday-counter/)
 
 Technologies Used
 
